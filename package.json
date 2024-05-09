@@ -29,7 +29,6 @@
     "passport": "^0.6.0",
     "passport-google-oauth20": "^2.0.0",
     "serverless-http": "^3.2.0",
-    "sharp": "^0.32.6",
     "swagger-autogen": "^2.23.1",
     "swagger-jsdoc": "^6.2.8",
     "swagger-ui-express": "^4.6.3"
